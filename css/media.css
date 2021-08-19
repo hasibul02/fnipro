@@ -1,0 +1,711 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px){ 
+        
+.common_tline{
+    height:30px;
+}
+.common-mr{
+    margin-bottom:40px;
+}
+  
+  /* header  area start*/
+  .c_dd_m[data-bs-popper]{
+    width: 200px;
+    top: 90px;
+    left: 0;   
+}
+.c_dd_m {   
+    min-width: 250px;  
+}
+.menu ul li a{      
+    padding: 10px 0;   
+}
+/* header  area end*/ 
+
+   /* slider start */
+    
+.slider-content{
+    margin-top:70px;
+    margin-bottom:50px;
+}
+.slider-content h1 {
+    font-size: 40px;    
+}
+.slider-content p {
+    margin-top: 30px;
+    line-height: 30px;
+   }
+
+.slider-content button{
+    margin-top:30px;
+}
+
+.ccn{
+    right:360px;
+}
+    /* slider end */
+       /* slider start */
+    
+.slider-content{
+    margin-top:70px;
+    margin-bottom:50px;
+}
+.slider-content h1 {
+    font-size: 25px;    
+}
+.slider-content p {
+    margin-top: 30px;
+    line-height: 30px;
+   }
+
+.slider-content button{
+    margin-top:30px;
+}
+
+.ccn{
+    right:180px;
+}
+.common_btn{
+    width:150px;
+    height:35px;
+}
+    /* slider end */
+ 
+ /* service start */
+ .service-area{
+    margin-top:55px;
+    margin-bottom:0;
+}
+/* service end */
+ /* about star */
+ .about-area {
+    margin-top: 20px;
+    margin-bottom:60px;
+}
+ .common_title{
+    font-size: 25px;    
+}
+
+.single-service {
+    margin-bottom: 40px;    
+}
+
+ /* about end */
+/* work area start */
+.work-area{
+    padding-bottom:40px;
+}
+.work-nav li{
+    margin-right:10px;
+}
+.work-nav li button{
+    padding:5px;
+    font-size: 16px;
+}
+
+.esm{
+  /*   margin-top:10px; */
+
+}
+/* work area end */
+/* chose area start */
+.single-chose{
+    text-align: center;
+}
+.single-chose p {
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+/* chose area end */
+/* team area start */
+.team-text {   
+    text-align: center;   
+}
+.single-team {
+ margin-bottom: 25px;
+}
+.team-image:hover .team-social{
+    opacity:1;
+    left:11%;  
+}
+/* team area end */
+/* pricing area start */
+.single-price {   
+    margin-bottom:30px;
+}
+ /* pricing area end */
+ /* responsive area start */
+ .responsive-btn{
+     width:100px;
+     margin: 0 auto !important;
+     padding-bottom:30px;
+ }
+ 
+ .responsive-area {
+    background-color: #f8f8f8;
+    margin: 20px  0 30px 0 ;
+}
+ /* responsive area end */
+ /* testimonial area start */
+
+ 
+
+.tprev{
+    display: none;
+}
+.picon {
+    background-image: none;
+    font-size: 20px;
+    transform: rotate(0deg) !important;
+}
+
+
+.tnext{
+   display: none;
+}
+.nicon {
+    background-image: none;
+    font-size: 20px;
+    transform: rotate(0deg);
+}
+ /* testimonial area end */
+  /* contact area start */
+  .contact-title {
+    width: 170px;    
+    margin-top: -25px;
+  
+}
+.contact-title h1 {
+    font-size: 25px;
+  
+}
+  .form-content {
+    margin-top: 40px;
+}
+.cfname, .clname {
+    width: 275px;
+    padding: 0 20px;
+    margin-top: 0px;
+    margin-bottom: 20px;   
+}
+.cemail {
+    padding: 0 20px;
+    margin-bottom: 0px;
+    width: 275px;
+   
+}
+.fmt {
+    margin-top: 50px;
+}
+ /* contact area end */
+ /* footer area start */
+ .footersocial ul li a {   
+    width: 35px;
+    height: 35px;
+}
+.footer-bottom {   
+    margin-top: 50px;
+    padding:25px 0;
+}
+.fbl p {
+    text-align: center;
+}
+.fbr {
+    text-align: center;
+}
+.fbr ul li a {   
+    margin-right: 3px;
+}
+.footersocial ul li a i {  
+    font-size: 20px;   
+}
+
+/* footer area end */
+
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .contact-title{
+        margin-top:-27px;
+    }
+    
+    .common_tline{
+        height: 35px;
+    }
+    .common-mr{
+        margin-bottom:60px;
+    }
+      /* header  area start*/
+      .c_dd_m[data-bs-popper] {
+        top: 90px;
+        left: 0;       
+    }
+    .menu ul li a{      
+        padding: 10px 0;       
+    }
+    /* header  area end*/
+    /* slider start */
+    
+.slider-content{
+    margin-top:70px;
+    margin-bottom:50px;
+}
+.slider-content h1 {
+    font-size: 40px;    
+}
+.slider-content p {
+    margin-top: 30px;
+    line-height: 30px;
+   }
+
+.slider-content button{
+    margin-top:30px;
+}
+
+.ccn{
+    right:360px;
+}
+.common_btn{  
+    width: 150px;
+    height: 40px;
+    border: 1px solid white;    
+}
+    /* slider end */
+ 
+
+/* service area start */
+.single-service {
+    margin-bottom: 80px;
+}
+/* service area end */
+
+/* service area start */
+.service-area{
+    margin-top:55px;
+    margin-bottom:0;
+}
+.common_sub {
+    margin-top: 35px;
+    margin-bottom:90px;
+}
+/* service area end */
+/* about area start */
+.about-area {
+    margin-top: 30px;
+    margin-bottom: 80px;
+}
+.about-text{
+    margin-top: 80px;
+}
+.about-text button{
+    border:1px solid #333333;
+}
+.single-service {
+    margin-bottom: 55px;
+}
+/* about area end */
+/* work area start */
+.work-area{
+    padding-bottom:60px;
+ 
+}
+.work-nav li{
+    margin-right:5px;
+}
+.work-nav li button{
+    padding:5px 10px;
+    font-size: 16px;
+}
+/* work area end */
+ /* team-area start */
+ .single-team {
+    margin-bottom: 25px;
+}
+.common-mr{
+    margin-bottom:40px;
+}
+ /* team-area end */
+ /* team area start */
+.team-text {
+    padding: 5px 7px;
+    text-align: center;   
+}
+
+.team-social{    
+    top:13%;
+}
+.team-image:hover .team-social{
+    opacity:1;
+    left:13%;  
+}
+/* team area end */
+/* pricing area start */
+.single-price {   
+    margin-bottom: 30px;
+}
+ /* pricing area end */
+ /* responsive area start */
+ .responsive-area {
+    background-color: #f8f8f8;
+    margin: 30px  0 40px 0 ;
+}
+ /* responsive area end */
+  /* testimonial area start */
+
+ 
+
+.tprev{
+    display: none;
+}
+.picon {
+    background-image: none;
+    font-size: 20px;
+    transform: rotate(0deg);
+}
+
+
+.tnext{
+   display: none;
+}
+.nicon {
+    background-image: none;
+    font-size: 20px;
+    transform: rotate(0deg);
+}
+ /* testimonial area end */
+
+  /* contact area start */
+  .form-content {
+    margin-top: 50px;
+}
+.cfname, .clname {
+    width: 490px;
+    padding: 0 20px;
+    margin-top: 0px;
+    margin-bottom: 40px;   
+}
+.cemail {
+    padding: 0 20px;
+    margin-bottom: 20px;
+    width: 490px;
+   
+}
+.fmt {
+    margin-top: 50px;
+}
+ /* contact area end */
+ /* footer area start */
+ .footersocial ul li a {   
+    width: 40px;
+    height: 40px;
+}
+.footer-bottom {   
+    margin-top: 50px;
+    padding:25px 0;
+}
+.fbl p {
+    text-align: center;
+}
+.fbr {
+    text-align: center;
+}
+.fbr ul li a {   
+    margin-right: 3px;
+}
+/* footer area end */
+
+
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+.contact-title{
+    margin-top:-25px;
+}
+.common_tline{
+    height: 40px;
+}
+
+.common-mr{
+    margin-bottom:80px;
+}
+    /* header  area start*/
+    .c_dd_m[data-bs-popper] {
+        top: 90px;
+        left: 0;
+       
+    }
+    .menu ul li a{      
+        padding: 10px 0;
+       
+    }
+    /* header  area end*/
+
+    /* slider start */
+.slider-content{
+    margin-top: 200px;
+    margin-bottom: 150px;
+}
+.slider-content h1{
+    font-size: 59px;
+    font-weight: 700;
+    color: white;
+}
+.slider-content p{
+     margin-top: 45px;
+     line-height: 35px;
+     color: white;
+    }
+.slider-content button{
+    margin-top: 60px;
+    color: #333333;
+    background-color: white;
+}
+
+.slider-content{
+    margin-top:100px;
+    margin-bottom:80px;
+}
+/* slider end */
+/* service area start */
+.single-service {
+    margin-bottom: 80px;
+}
+/* service area end */
+
+/* service area start */
+.service-area{
+    margin-top:55px;
+    margin-bottom:0;
+}
+.common_sub {
+    margin-top: 35px;
+    margin-bottom:90px;
+}
+/* service area end */
+
+/* about area start */
+.about-area {
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+.about-image{
+    margin-top: 50%;
+}
+.single-service {
+    margin-bottom: 65px;
+}
+/* about area end */
+/* work-area start */
+.work-area{
+    padding-bottom:100px;
+    background:#f8f8f8;
+}
+/* work-area end */
+
+ /* team-area start */
+ .single-team {
+    margin-bottom: 25px;
+}
+.common-mr{
+    margin-bottom:60px;
+}
+ /* team-area end */
+ /* pricing area start */
+ .single-price {   
+    margin-bottom: 40px;
+}
+ /* pricing area end */
+ /* responsive area start */
+ .responsive-area {
+    background-color: #f8f8f8;
+    margin: 40px  0 50px 0 ;
+}
+ /* responsive area end */
+  /* testimonial area start */ 
+
+.tprev{
+    display:none;
+    left:0%;
+    top:0;
+}
+.picon {
+    background-image: none;
+    font-size: 20px;
+    transform: rotate(0deg);
+}
+
+.tslider{
+    height: 0;
+}
+.tnext{
+    display:none;
+    left:0 !important;
+    bottom:0 !important;
+}
+.nicon {
+    background-image: none;
+    font-size: 20px;
+    transform: rotate(0deg);
+}
+ /* testimonial area end */
+  /* contact area start */
+  .form-content {
+    margin-top: 50px;
+}
+.cfname, .clname {
+    width: 325px;
+    padding: 0 20px;
+    margin-top: 0px;
+    margin-bottom: 60px;   
+}
+.cemail {
+    padding: 0 20px;
+    margin-bottom: 40px;
+    width:668px;
+   
+}
+.footer-bottom {   
+    margin-top: 60px;
+    padding: 30px 0;
+}
+.fbl p {    
+    font-size: 14px;
+}
+.fbr ul li a {    
+    margin-right: 0px;
+}
+.contact-title {    
+    margin-top: -30px; 
+  
+}
+ /* contact area end */
+ 
+ 
+}
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+.contact-title{
+    margin-top:-25px;
+}
+.common_tline{
+    height: 50px;
+}
+.slider-content{
+    margin-top: 150px;
+    margin-bottom: 110px;
+}
+.slider-content h1{
+    font-size: 50px;
+   
+}
+.ccn {
+    right: 360px;
+}
+  /* slider end */
+  /* about start */
+  .about-text h1 {
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+.common_btn{  
+    width: 150px;
+    height: 40px;
+       
+}
+
+  /* about end */
+
+/* team area start */
+.team-text {
+    padding: 5px 7px;   
+}
+
+.team-social{    
+    top:13%;
+}
+.team-image:hover .team-social{
+    opacity:1;
+    left:15%;  
+}
+/* team area end */
+/* responsive area start */
+.responsive-area {
+    background-color: #f8f8f8;
+    margin: 50px  0 60px 0 ;
+}
+ /* responsive area end */
+
+ /* contact area start */
+ .form-content {
+    margin-top: 50px;
+}
+.cfname, .clname {
+    width:292px;
+    padding: 0 20px;
+    margin-top: 0px;
+    margin-bottom: 60px;   
+}
+.cemail {
+    padding: 0 20px;
+    margin-bottom: 40px;
+    width: 600px;
+   
+}
+ /* contact area end */
+}
+/*Extra Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+    /* slider start */
+
+    .slider-content {
+        margin-top: 150px;
+        margin-bottom: 120px;
+    }
+
+    /* slider end*/
+    /* contact area start */
+ .form-content {
+    margin-top: 50px;
+}
+.cfname, .clname {
+    width: 350px;
+    padding: 0 20px;
+    margin-top: 0px;
+    margin-bottom: 60px;   
+}
+.cemail {
+    padding: 0 20px;
+    margin-bottom: 40px;
+    width:719px;
+   
+}
+.contact-title{
+    margin-top:-25px;
+}
+ /* contact area end */
+  
+   
+ }
+
+/*Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+    .form-content {
+        margin-top: 50px;
+    }
+    .cfname, .clname {
+        width: 325px;
+        padding: 0 20px;
+        margin-top: 0px;
+        margin-bottom: 60px;   
+    }
+    .cemail {
+        padding: 0 20px;
+        margin-bottom: 40px;
+        width:668px;
+       
+    }
+ }
